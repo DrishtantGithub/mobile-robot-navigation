@@ -17,3 +17,4 @@ This project implements a hybrid navigation controller for mobile robots by comb
 - Achieved **smooth waypoint tracking** with dynamic obstacle avoidance.
 - Reduced overshoot near waypoints by parameter tuning.
 - Demonstrated robustness in narrow corridor scenarios.
+- The Results and code are attached in the report which has been uploaded in the repository.
